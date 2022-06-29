@@ -1,0 +1,4 @@
+- Hi, I’m James Thomas-Hart
+- I’m interested in software engineering & code development.
+- I’m currently learning Java
+- 📫 How to reach me: j.thomashart@aol.com
